@@ -6,4 +6,5 @@ pink
 yellow
 green
 orange
+red
 these are the colors of the ceiling
